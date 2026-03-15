@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474602069857",
+    "project_id": "giziku-app",
+    "storage_bucket": "giziku-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474602069857:android:1da2a4574792e533632f20",
+        "android_client_info": {
+          "package_name": "com.example.giziku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_BtVcV_1fcaVllTCuWI0LQaZNn0yMeOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474602069857:android:328dec7ac9da40b6632f20",
+        "android_client_info": {
+          "package_name": "com.example.giziku.final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_BtVcV_1fcaVllTCuWI0LQaZNn0yMeOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
