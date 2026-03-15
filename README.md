@@ -17,5 +17,5 @@ Aplikasi ini sangat cocok bagi individu dengan mobilitas tinggi yang ingin menja
 
 Aplikasi ini dibangun dengan arsitektur modern untuk memastikan performa yang cepat, stabil, dan dapat diandalkan:
 * **Frontend:** Flutter & Dart 
-* **Backend & Database:** Cloud services (Firebase/AWS) untuk penyimpanan data tersinkronisasi dan autentikasi yang aman.
+* **Backend & Database:** Firebase untuk penyimpanan data tersinkronisasi dan autentikasi yang aman.
 * **Kecerdasan Buatan:** Gemini-2.5-flash.
