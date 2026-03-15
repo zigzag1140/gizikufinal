@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBTlbVa7ClFe_1FvIq7zNZHbGxuADLjuko',
+    apiKey: '',
     appId: '1:474602069857:web:f24a4e98c1582ad4632f20',
     messagingSenderId: '474602069857',
     projectId: 'giziku-app',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC_BtVcV_1fcaVllTCuWI0LQaZNn0yMeOg',
+    apiKey: '',
     appId: '1:474602069857:android:1da2a4574792e533632f20',
     messagingSenderId: '474602069857',
     projectId: 'giziku-app',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDeTiQGpz-fAEG33qYuF_7YEtgSKOthp-c',
+    apiKey: '',
     appId: '1:474602069857:ios:7891e0b7053f1fec632f20',
     messagingSenderId: '474602069857',
     projectId: 'giziku-app',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDeTiQGpz-fAEG33qYuF_7YEtgSKOthp-c',
+    apiKey: '',
     appId: '1:474602069857:ios:7891e0b7053f1fec632f20',
     messagingSenderId: '474602069857',
     projectId: 'giziku-app',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBTlbVa7ClFe_1FvIq7zNZHbGxuADLjuko',
+    apiKey: '',
     appId: '1:474602069857:web:feb426809189e9b1632f20',
     messagingSenderId: '474602069857',
     projectId: 'giziku-app',
